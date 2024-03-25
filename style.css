@@ -2,12 +2,14 @@
   margin: 0;
   padding: 0;
 }
-body{
-  background: #22A09
-}
-p{
+body{ background-color: #FFFFFF
+    }
+h1{
   text-align: center;
 }
-em strong{
-  color:green;
-  
+p{ 
+text-align: center;
+}
+em strong {
+  color: purple;
+}
